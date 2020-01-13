@@ -121,7 +121,7 @@ h6 {
 
 #header {
   padding: 30px 0;
-  height: 92px;
+  height: 120px;
   position: fixed;
   left: 0;
   top: 0;
@@ -132,8 +132,8 @@ h6 {
 
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
-  padding: 20px 0;
-  height: 72px;
+  padding: 40px 0;
+  height: 120px;
   transition: all 0.5s;
 }
 
@@ -155,7 +155,7 @@ h6 {
 #header #logo h1 a:hover {
   color: #fff;
   padding-left: 10px;
-  border-left: 4px solid #18d26e;
+  
 }
 
 #header #logo img {
@@ -367,7 +367,7 @@ h6 {
 
 #nav-menu-container {
   float: right;
-  margin: 0;
+  margin: 19px;
 }
 
 /* Nav Meu Styling */
